@@ -87,13 +87,11 @@ The available options and their default values are:
 }
 ```
 
-## Dependencies
+## Credits
 
-- [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) (MIT)
+- [kazuhikoarase/qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) (MIT)
 
-## Acknowledgement
-
-wechat-miniapp-qrcode is modified based on [lrsjng/kjua](https://github.com/lrsjng/kjua) (MIT), which is suitable for generating QR codes for modern browsers.
+- [lrsjng/kjua](https://github.com/lrsjng/kjua) (MIT)
 
 ## LICENSE
 
