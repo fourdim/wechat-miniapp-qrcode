@@ -1,6 +1,6 @@
 {
   "name": "@fourdim/wechat-miniapp-qrcode",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Dynamically generated QR codes for Wechat Miniapps.",
   "author": "Fourdim",
   "repository": {

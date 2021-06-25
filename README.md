@@ -21,7 +21,7 @@ If you are looking for the QR code generator for modern browsers, you may refer 
 
 ```js
 // canvas.js
-import genQrcode from 'wechat-miniapp-qrcode'
+import genQrcode from '@fourdim/wechat-miniapp-qrcode'
 
 const query = wx.createSelectorQuery()
 query.select('#myCanvas')
