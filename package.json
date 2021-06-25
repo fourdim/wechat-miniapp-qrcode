@@ -1,5 +1,5 @@
 {
-  "name": "wechat-miniapp-qrcode",
+  "name": "@fourdim/wechat-miniapp-qrcode",
   "version": "0.1.0",
   "license": "MIT",
   "files": [
